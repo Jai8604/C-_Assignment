@@ -4,6 +4,6 @@ For My College Assignments
 <br>
 On Student Record Management System
 <br>
-Add records 
-Display records
+Add records <br>
+Display records <br>
 Search Records
